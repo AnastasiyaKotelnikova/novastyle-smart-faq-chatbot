@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What are your shipping options?",
+    "answer": "We offer standard (5–7 business days) and express (2–3 business days) shipping for all NovaStyle Shop orders."
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5–7 business days. Express shipping takes 2–3 business days depending on your location."
+  },
+  {
+    "id": 3,
+    "question": "What is your return policy?",
+    "answer": "You can return most items within 30 days of delivery as long as they are unused and in original packaging."
+  },
+  {
+    "id": 4,
+    "question": "How do I start a return?",
+    "answer": "Log in to your NovaStyle account, open your order, and click 'Start Return'. You’ll receive a prepaid return label by email."
+  },
+  {
+    "id": 5,
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept major credit cards, PayPal, and select buy-now-pay-later providers at checkout."
+  },
+  {
+    "id": 6,
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, we email you a tracking link. You can also track it from your NovaStyle account under 'My Orders'."
+  }
+]
