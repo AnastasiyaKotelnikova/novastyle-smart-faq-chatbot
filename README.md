@@ -5,6 +5,17 @@ Serverless AI-powered FAQ chatbot built using **AWS Lambda + API integration + H
 This project simulates a smart customer-support assistant that answers questions about
 shipping, returns, orders, and payments — similar to what you see on large e-commerce websites.
 
+🚨 Deployment Note
+
+This project was originally deployed using AWS S3 (static website hosting) and AWS Lambda (serverless backend).
+Because it was built under an AWS Student account, the hosted resources may no longer be active once the account expires.
+
+Even if the public website link no longer works, all source code, architecture, and deployment steps are preserved in this repository, along with screenshots of the working system.
+
+Screenshots demonstrating the deployed system can be found in:
+/assets
+
+If needed, the project can be redeployed in the future using AWS or another hosting platform.
 ---
 
 ## 🚀 Features
